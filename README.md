@@ -48,17 +48,6 @@ Soy un desarrollador apasionado por crear aplicaciones web modernas, escalables 
 
 ---
 
-## 📚 Experiencia
-
-### 🔧 Full Stack Developer
-**Proyectos Propios** | 2024 - Presente
-- Desarrollo de aplicaciones web con React y Node.js
-- Diseño e implementación de APIs RESTful
-- Gestión de bases de datos con MongoDB
-- Despliegue en plataformas cloud
-
----
-
 ## 🎓 Formación
 
 - 📖 **Desarrollo Web Full Stack** - Plataforma de Cursos Online
@@ -89,7 +78,3 @@ Soy un desarrollador apasionado por crear aplicaciones web modernas, escalables 
 📱 Desarrollo responsive y mobile-first  
 🚀 Optimización de rendimiento y escalabilidad  
 🎂 Creativo en y fuera del código
-
----
-
-**⭐ Si te gusta mi trabajo, considera dejarme una estrella en mis repositorios. ¡Gracias!**
