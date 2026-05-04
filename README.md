@@ -35,8 +35,8 @@
 
 ## 🎓 Formación
 
-- 📖 **Desarrollo Web Full Stack** - Plataforma de Cursos Online
-- 🎂 **Pastelería Profesional** - Carrera Especializada
+- 📖 **Desarrollo Web Full Stack** - Plataforma de Cursos Online "CODERHOUSE"
+- 🎂 **Pastelería Profesional** - Carrera Especializada "IPAC Gastronomia"
 
 ---
 
