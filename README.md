@@ -1,7 +1,11 @@
 # 👋 Maximiliano Fallini
+
 <br>
+
 ### 💻 Desarrollador Full Stack | React | Node.js | MongoDB
+
 <br>
+
 ## 🚀 Idiomas y Herramientas
 
 <p align="center">
