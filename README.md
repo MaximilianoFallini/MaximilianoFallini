@@ -43,20 +43,6 @@ Soy un desarrollador apasionado por crear aplicaciones web modernas, escalables 
 
 ---
 
-## 🎯 Proyectos Destacados
-
-### 📱 Chat en Tiempo Real
-- **Descripción:** Aplicación de chat interactiva con WebSockets
-- **Tecnologías:** React, Node.js, Socket.io, MongoDB, Tailwind CSS
-- **Características:** Mensajería en tiempo real, notificaciones, interfaz responsive
-
-### 🛒 E-Commerce
-- **Descripción:** Plataforma de compra y venta online
-- **Tecnologías:** React, Express, MongoDB, Stripe/PayPal
-- **Características:** Catálogo de productos, carrito, checkout seguro
-
----
-
 ## 📚 Experiencia
 
 ### 🔧 Full Stack Developer
@@ -71,7 +57,6 @@ Soy un desarrollador apasionado por crear aplicaciones web modernas, escalables 
 ## 🎓 Formación
 
 - 📖 **Desarrollo Web Full Stack** - Plataforma de Cursos Online
-- 🏆 **Certificaciones en React, Node.js y MongoDB**
 
 ---
 
@@ -98,10 +83,6 @@ Soy un desarrollador apasionado por crear aplicaciones web modernas, escalables 
 
 ✨ Me apasiona la programación y resolver problemas complejos  
 🎨 Diseño interfaces intuitivas y modernas  
-📱 Desarrollo responsive y mobile-first  
-🚀 Optimización de rendimiento y escalabilidad  
-💡 Siempre aprendiendo nuevas tecnologías  
+📱 Desarrollo responsive y mobile
+🚀 Optimización de rendimiento y escalabilidad   
 
----
-
-**⭐ Si te gusta mi trabajo, considera dejarme una estrella en mis repositorios. ¡Gracias!**
