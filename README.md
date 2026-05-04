@@ -1,9 +1,6 @@
 # 👋 Maximiliano Fallini
 
 ### 💻 Desarrollador Full Stack | React | Node.js | MongoDB
-### 🎂 Pastelero Profesional
-
-Soy un desarrollador apasionado por crear aplicaciones web modernas, escalables y con excelente experiencia de usuario. Me encanta trabajar tanto en frontend como en backend, y siempre estoy buscando aprender nuevas tecnologías. Además, cuento con una formación profesional en pastelería.
 
 ---
 
