@@ -2,8 +2,6 @@
 
 ### 💻 Desarrollador Full Stack | React | Node.js | MongoDB
 
----
-
 ## 🚀 Idiomas y Herramientas
 
 <p align="center">
