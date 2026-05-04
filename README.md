@@ -46,6 +46,9 @@
   <a href="https://github.com/MaximilianoFallini" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/maximiliano-fallini-08930926a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://discord.com/users/maxithesudaka" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
@@ -62,4 +65,5 @@
 🎨 Diseño interfaces intuitivas y modernas  
 📱 Desarrollo responsive y mobile-first  
 🚀 Optimización de rendimiento y escalabilidad  
+🔎 Me gusta indagar en la optimización de sistemas operativos y tecnologías  
 🎂 Creativo en y fuera del código
