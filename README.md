@@ -54,10 +54,3 @@
 </p>
 
 ---
-
-## 🌟 Un poco más sobre mí
-
-🎨 Diseño interfaces intuitivas y modernas  
-📱 Desarrollo responsive
-🚀 Optimización de rendimiento y escalabilidad  
-🔎 Me gusta indagar en la optimización de sistemas operativos y tecnologías  
