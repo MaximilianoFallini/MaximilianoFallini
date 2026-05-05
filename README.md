@@ -32,7 +32,7 @@
 
 ## 🎓 Formación
 
-- 📖 **Desarrollador Web Full Stack** - Plataforma de Cursos Online "CODERHOUSE"
+- 📖 **Desarrollador Web Full Stack** - Plataforma Online "CODERHOUSE"
 - 🎂 **Pastelero Profesional** - Carrera Especializada "IPAC Gastronomia"
 
 ---
