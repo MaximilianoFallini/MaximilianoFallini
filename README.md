@@ -35,7 +35,7 @@
 
 ---
 
-## 💼 Encuéntrame en
+## 💼 Contacto
 
 <p align="center">
 
